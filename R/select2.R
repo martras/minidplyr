@@ -12,6 +12,8 @@
 #' @export
 #'
 #' @examples
+#' res <- select2(iris,3:4) #can i comment on this?
+#' plot(res)
 select2 <- function(df,names_or_idx) {
   df[names_or_idx]
 }

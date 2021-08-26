@@ -20,3 +20,7 @@ Select based on specific column names or idx
 \details{
 Any additional description \strong{Here}
 }
+\examples{
+res <- select2(iris,3:4) #can i comment on this?
+plot(res)
+}
