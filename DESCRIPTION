@@ -15,3 +15,6 @@ RoxygenNote: 7.1.1
 Imports:
     dplyr,
     testthat
+Suggests:
+    spelling
+Language: en-US
